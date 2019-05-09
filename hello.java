@@ -6,6 +6,7 @@ public class hello {
 		String name = "doowan";
 		System.out.println(name);
 		System.out.println("HTML\nCSS\nJavaScript");
+		System.out.println("h\b\g\l\");
 	}
 
 }
